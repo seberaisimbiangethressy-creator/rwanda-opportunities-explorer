@@ -6,7 +6,7 @@ A responsive React application that helps learners discover workshops, career ev
 
 Built for the Week 7 integrated React assignment (Advanced Frontend Web Development).
 
-**Live site:** _add your deployed URL here if you deploy (optional)_
+**Live site:**https://seberaisimbiangethressy-creator.github.io/rwanda-opportunities-explorer/
 
 ## Tech stack
 
